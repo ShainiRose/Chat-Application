@@ -1,2 +1,2 @@
 # Chat-Application
-Using Gemini API
+Using Gemini API key 
